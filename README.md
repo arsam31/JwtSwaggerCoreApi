@@ -12,3 +12,5 @@ c microsoft.entityframeworkcore.tools
 d swashbuckle.aspnetcore
 
 e swashbuckle.aspnetcore.swagger
+
+f Microsoft.AspNetCore.Authentication.JwtBeaer
