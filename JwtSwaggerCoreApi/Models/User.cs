@@ -12,7 +12,7 @@ namespace JwtSwaggerCoreApi.Models
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
-        public int Name { get; set; }
-        public int Password { get; set; }
+        public string Name { get; set; }
+        public string Password { get; set; }
     }
 }
